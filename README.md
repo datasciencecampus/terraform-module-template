@@ -1,4 +1,4 @@
-# terraform-module-template
+# terraform-template
 A starter template for creating reusable Terraform modules with best practices built in.
 
 <!-- BEGIN_TF_DOCS -->
